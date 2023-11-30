@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "photo": "3-1.jpg",
+      "title": "청바지1",
+      "price": 32000
+    },
+    {
+      "photo": "3+1.jpg",
+      "title": "청바지2",
+      "price": 32000
+    },
+    {
+      "photo": "3-2.jpg",
+      "title": "짧은바지1",
+      "price": 32000
+    },
+    {
+      "photo": "3+2.jpg",
+      "title": "짧은바지2",
+      "price": 32000
+    },
+    {
+      "photo": "3-3.jpg",
+      "title": "긴바지1",
+      "price": 32000
+    },
+    {
+      "photo": "3+3.jpg",
+      "title": "긴바지2",
+      "price": 32000
+    },
+    {
+      "photo": "3-4.jpg",
+      "title": "레깅스1",
+      "price": 32000
+    },
+    {
+      "photo": "3+4.jpg",
+      "title": "레깅스2",
+      "price": 32000
+    }
+  ]
+}
