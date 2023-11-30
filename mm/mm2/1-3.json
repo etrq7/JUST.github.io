@@ -1,0 +1,24 @@
+{
+    "products": [
+      {
+        "photo": "3-1.jpg",
+        "title": "가디건1",
+        "price": 32000
+      },
+      {
+        "photo": "3-2.jpg",
+        "title": "가디건2",
+        "price": 38000
+      },
+      {
+        "photo": "3-3.jpg",
+        "title": "가디건3",
+        "price": 32000
+      },
+      {
+        "photo": "3-4.jpg",
+        "title": "가디건4",
+        "price": 38000
+      }
+    ]
+  }
