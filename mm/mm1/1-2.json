@@ -1,0 +1,24 @@
+{
+    "products": [
+      {
+        "photo": "2-1.jpg",
+        "title": "티1",
+        "price": 32000
+      },
+      {
+        "photo": "2-2.jpg",
+        "title": "티2",
+        "price": 38000
+      },
+      {
+        "photo": "2-3.jpg",
+        "title": "티3",
+        "price": 32000
+      },
+      {
+        "photo": "2-4.jpg",
+        "title": "티4",
+        "price": 38000
+      }
+    ]
+  }

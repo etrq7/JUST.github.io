@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "photo": "4-1.jpg",
+      "title": "귀고리1",
+      "price": 32000
+    },
+    {
+      "photo": "4+1.jpg",
+      "title": "귀고리2",
+      "price": 32000
+    },
+    {
+      "photo": "4-2.jpg",
+      "title": "목걸이1",
+      "price": 32000
+    },
+    {
+      "photo": "4+2.jpg",
+      "title": "목걸이2",
+      "price": 32000
+    },
+    {
+      "photo": "4-3.jpg",
+      "title": "반지1",
+      "price": 32000
+    },
+    {
+      "photo": "4+3.jpg",
+      "title": "반지2",
+      "price": 32000
+    },
+    {
+      "photo": "4-4.jpg",
+      "title": "팔찌1",
+      "price": 32000
+    },
+    {
+      "photo": "4+4.jpg",
+      "title": "팔찌2",
+      "price": 32000
+    }
+  ]
+}
