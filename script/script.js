@@ -6,7 +6,7 @@ $(".mm > li").mouseleave(function () {
     $(".sm").stop().slideUp();
 })
 
-fetch("../json/1.json")
+fetch("../../1.json")
     .then((res) => { return res.json() })
     .then((items) => {
         let br = document.createElement("br");
@@ -46,7 +46,7 @@ fetch("../json/1.json")
     }
     )
 
-fetch("../json/2.json")
+fetch("../../2.json")
     .then((res) => { return res.json() })
     .then((items) => {
         let br = document.createElement("br");
@@ -86,7 +86,7 @@ fetch("../json/2.json")
     }
     )
 
-fetch("../json/3.json")
+fetch("../../3.json")
     .then((res) => { return res.json() })
     .then((items) => {
         let br = document.createElement("br");
@@ -126,7 +126,7 @@ fetch("../json/3.json")
     }
     )
 
-fetch("../json/4.json")
+fetch("../../4.json")
     .then((res) => { return res.json() })
     .then((items) => {
         let br = document.createElement("br");
